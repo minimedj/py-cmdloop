@@ -106,8 +106,8 @@ Here's a more complex example:
 """,
       author='Crutcher Dunnavant',
       author_email='crutcher@gmail.com',
-      url='http://littlelanguages.com/2006/02/commandloop-module-in-python.html',
-      download_url='http://littlelanguages.com/web/software/python/modules/cmdloop.py',
+      url='http://code.google.com/p/py-cmdloop/',
+      download_url='http://py-cmdloop.googlecode.com/svn/trunk/cmdloop.py',
       packages=['cmdloop'],
       classifiers=[
           'Development Status :: 4 - Beta',
